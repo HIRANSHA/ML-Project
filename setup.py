@@ -24,5 +24,5 @@ setup(
     author ='hiransha',
     author_email='hiransham5600@gmail.com',
     packages=find_packages(),
-    install_reqiures=get_reqiurements('src/reqiurements.txt')
+    install_reqiures=get_reqiurements('reqiurements.txt')
 )
