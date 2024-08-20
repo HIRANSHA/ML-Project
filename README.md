@@ -1,4 +1,4 @@
-## End to End MAchine Learning Project
+## End to End MAchine Learning Project on Student performance
 
 1. Docker Build checked
 2. Github Workflow
